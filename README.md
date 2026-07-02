@@ -32,7 +32,7 @@ cd "sql_agt"
 
 ---
 
-## 📥 Universal Dataset Ingestion (CSV / XLSX / JSON)
+## Universal Dataset Ingestion (CSV / XLSX / JSON)
 
 The engine is engineered with an arbitrary, schema-agnostic ingestion pipeline. Users do not need to hardcode paths or reconfigure backend tables; any user can bring their own data and start querying immediately.
 
